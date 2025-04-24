@@ -1,5 +1,12 @@
 # next-docs-ui
 
+## 15.2.11
+
+### Patch Changes
+
+- d4d1ba7: Fix sidebar collapsible control search button still visible with search disabled
+  - fumadocs-core@15.2.11
+
 ## 15.2.10
 
 ### Patch Changes
